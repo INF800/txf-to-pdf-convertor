@@ -11,4 +11,4 @@ It reads from a named file, and writes the PDF file to a file specified by
 the user, otherwise to a file with '.pdf' appended to the input file
 ---------
 
-credits : Anand B Pillai
+
